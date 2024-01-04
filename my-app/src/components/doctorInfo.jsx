@@ -24,7 +24,7 @@ function doctorInfo() {
 						eiusmod tempor incididunt ut labore et dolore magna aliqua.
 					</p>
 					<a
-						href="http://127.0.0.1:3000/appointmentCalendar/bookingappointment.html"
+						href="http://localhost:3000/bookingappointment"
 						class="appointments-btn"
 					>
 						Appointments
