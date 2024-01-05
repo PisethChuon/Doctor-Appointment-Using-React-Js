@@ -11,7 +11,7 @@ Ensure that your machine has [Node.js](https://nodejs.org/) and [npm](https://ww
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/cheakimhengg/doctorAppointment.git
+    git clone https://github.com/PisethChuon/Doctor-Appointment-Using-React-Js.git
     ```
 
 2. **Navigate to the project directory:**
